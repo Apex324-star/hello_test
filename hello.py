@@ -7,5 +7,5 @@ try:
 except:
   print("data type should be intiger")
 else:   
-  print(f"the factorial of {nu} is {factorial(nu)
+  print(f"the factorial of {nu} is {factorial(nu)}")
           
